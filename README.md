@@ -1,6 +1,7 @@
 
 # Amazon-Customer-Sentiment-analysis
 Amazon Customer Sentiment analysis  python programming and Natural Language Processing(NLP).
+here data cleaning, data abstraction, machine learning anf data visualiztion.
 
 Dataset was obtained from kaggle at url https://www.kaggle.com/bittlingmayer/amazonreviews
 
